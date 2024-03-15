@@ -25,7 +25,7 @@ const Contact = () => {
                         <span className="contact-heading">
                         Teacher Co-ordinater
                         </span>
-                        <div>Jayanti Mahato: +91 97325 26103</div>
+                        <div>Jayanti Mahata: +91 97325 26103</div>
                     </div>
                 </div>
             </div>
