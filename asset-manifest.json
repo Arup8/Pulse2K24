@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pulse2K24/static/css/main.8b0590c9.css",
-    "main.js": "/Pulse2K24/static/js/main.276ccb49.js",
+    "main.js": "/Pulse2K24/static/js/main.258f06cf.js",
     "static/media/dept03.JPG": "/Pulse2K24/static/media/dept03.b8bee2de72d932b161fe.JPG",
     "static/media/dept07.JPG": "/Pulse2K24/static/media/dept07.8d47d3d1f29b24c2be84.JPG",
     "static/media/dept08.JPG": "/Pulse2K24/static/media/dept08.103d9b50a5172e9b7b14.JPG",
@@ -18,7 +18,6 @@
     "static/media/Arijit Saha.jpeg": "/Pulse2K24/static/media/Arijit Saha.97938026909bb843a2c1.jpeg",
     "static/media/Nandini Mishra.jpg": "/Pulse2K24/static/media/Nandini Mishra.e049b96a2c4b00aecca3.jpg",
     "static/media/Avik Sen.jpeg": "/Pulse2K24/static/media/Avik Sen.6fcd0dfec10d3d841344.jpeg",
-    "static/media/Tiyasa Saha.jpeg": "/Pulse2K24/static/media/Tiyasa Saha.00c930822fad20ea8b78.jpeg",
     "static/media/Arijit Karmakar.jpg": "/Pulse2K24/static/media/Arijit Karmakar.c54a5709c6b8a9c24164.jpg",
     "static/media/Ayan Saha.jpg": "/Pulse2K24/static/media/Ayan Saha.4ec136eb273ec57fe822.jpg",
     "static/media/dept05.jpeg": "/Pulse2K24/static/media/dept05.c8abb3109754096987de.jpeg",
@@ -37,6 +36,7 @@
     "static/media/Sk Mahammad Afzal.jpeg": "/Pulse2K24/static/media/Sk Mahammad Afzal.da6533849352d208bb7a.jpeg",
     "static/media/Hridhwesh Maity.jpg": "/Pulse2K24/static/media/Hridhwesh Maity.ffe2e19cbc47208d5d6e.jpg",
     "static/media/Sarthak Mukherjee.jpeg": "/Pulse2K24/static/media/Sarthak Mukherjee.f4ba35755208ce55e4a5.jpeg",
+    "static/media/Tiyasa Saha.jpeg": "/Pulse2K24/static/media/Tiyasa Saha.0f8ff569ca794ca23688.jpeg",
     "static/media/Chayan Gupta.jpg": "/Pulse2K24/static/media/Chayan Gupta.f03ea3a9761ebe297075.jpg",
     "static/media/Swarnendu Sikdar.jpg": "/Pulse2K24/static/media/Swarnendu Sikdar.fa18a5e2b9ced0c48721.jpg",
     "static/media/pulse-logo-png1.2.png": "/Pulse2K24/static/media/pulse-logo-png1.2.87dd02ddaafef1be039b.png",
@@ -55,10 +55,10 @@
     "static/media/pulse-data.csv": "/Pulse2K24/static/media/pulse-data.20860a5bfaaa0801d533.csv",
     "index.html": "/Pulse2K24/index.html",
     "main.8b0590c9.css.map": "/Pulse2K24/static/css/main.8b0590c9.css.map",
-    "main.276ccb49.js.map": "/Pulse2K24/static/js/main.276ccb49.js.map"
+    "main.258f06cf.js.map": "/Pulse2K24/static/js/main.258f06cf.js.map"
   },
   "entrypoints": [
     "static/css/main.8b0590c9.css",
-    "static/js/main.276ccb49.js"
+    "static/js/main.258f06cf.js"
   ]
 }
