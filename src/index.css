@@ -120,7 +120,8 @@ img{
     background-color: var(--dark-2);
     color: white;
     border-radius: 1.5rem;
-    font-size: 1rem;
+    /* font-size: 1rem; */
+    font-size: 0.85rem;
     /* padding: 0.8rem 1.6rem; */
     padding: 0.6rem 1.2rem;
     font-weight: 500;
@@ -178,5 +179,13 @@ img{
 
     .title{
         font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width : 340px) {
+    .follow-btn{
+        font-size: 0.8rem;
+        font-weight: 350;
+        /* justify-content: center; */
     }
 }
