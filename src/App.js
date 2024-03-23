@@ -16,6 +16,7 @@ import Members from "./components/Members/Members";
 import Sponsor from "./components/Sponsor/Sponsor";
 import Advisior from "./components/Advisior/Advisior";
 import Datasheet from "./components/Datasheet/Datasheet";
+import InstagramFollowButton from './components/Instagram/Instagram';
 
 const App = () => {
     return (
@@ -35,6 +36,7 @@ const App = () => {
             <Contact></Contact>
             <Cta></Cta>
             <Sponsor></Sponsor>
+            <InstagramFollowButton/>
             <Footer></Footer>
             </Loader>
         </div>

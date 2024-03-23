@@ -61,6 +61,15 @@ const Navbar = () => {
               Register
             </a>
           </div>
+          <div className="navlink follow-btn nav-btn" onClick={toggleMenu}>
+            <a
+              href="https://www.instagram.com/pulse.mckvie?igsh=MWt6OXNwa3h6OG4ybA=="
+              target="_blank"
+              rel="noreferrer"
+            >
+              Follow Us
+            </a>
+          </div>
         </div>
         <div className="menu-icon" onClick={toggleMenu}>
           <FontAwesomeIcon icon={menuOpen ? faTimes : faBars} />

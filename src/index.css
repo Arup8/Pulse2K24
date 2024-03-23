@@ -115,6 +115,39 @@ img{
     background-color: var(--main-green-light);
 }
 
+.follow-btn {
+    display: inline-block;
+    background-color: var(--dark-2);
+    color: white;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    /* padding: 0.8rem 1.6rem; */
+    padding: 0.6rem 1.2rem;
+    font-weight: 500;
+    width: fit-content;
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+    border: none;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .follow-btn::after{
+    content: "";
+    position: absolute;
+    height: 110%;
+    width: 105%;
+    border-radius: 1.5rem;
+    background-image: linear-gradient(to right,  #fcb045 , #fd1d1d, #833ab4);
+    transition: all 0.25s ease-in-out;
+    z-index: -1;
+  }
+  .follow-btn:hover {
+    transition: all 0.25s ease-in-out;
+    z-index: 0;
+    box-shadow: 40px 0 100px #833ab4, -40px 0 100px #fd1d1d, 0 0 0 #833ab4;
+  }
 
 .title {
     position: relative;
