@@ -46,7 +46,7 @@ const About = () => {
                         roundName="Code Crusade"
                         subtitle="(Top 5 teams from Round-2)"
                         icon={CodeHunt}
-                        description="Solve your way through 4 given coding problems. Each problem unlocks the next problem."
+                        description="Solve your way through 3 given coding problems. Each problem unlocks the next problem."
                     ></EventCard>
                 </div>
             </div>

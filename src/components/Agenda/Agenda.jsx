@@ -61,9 +61,9 @@ const Agenda = () => {
             <div className="arrow-container">
                 <div className="arrow-line"></div>
             </div>
-            <div className="agenda-time">02:10 PM - 03:30 PM</div>
+            <div className="agenda-time">02:10 PM - 02:55 PM</div>
             <div className="agenda-name">Code Crusade</div>
-            80 minutes round based on 4 given coding problems, where each problem unlocks the next problem.
+            45 minutes round based on 3 given coding problems, where each problem unlocks the next problem.
         </div>
         <div className="agenda-text">
             <div className="arrow-container">
