@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pulse2K24/static/css/main.f690d5d7.css",
-    "main.js": "/Pulse2K24/static/js/main.ea686537.js",
+    "main.css": "/Pulse2K24/static/css/main.b1b8621b.css",
+    "main.js": "/Pulse2K24/static/js/main.a629ddcb.js",
     "static/media/dept03.JPG": "/Pulse2K24/static/media/dept03.b8bee2de72d932b161fe.JPG",
     "static/media/dept07.JPG": "/Pulse2K24/static/media/dept07.8d47d3d1f29b24c2be84.JPG",
     "static/media/dept08.JPG": "/Pulse2K24/static/media/dept08.103d9b50a5172e9b7b14.JPG",
@@ -52,13 +52,13 @@
     "static/media/certificate.png": "/Pulse2K24/static/media/certificate.d61d9bf79445bbb8705c.png",
     "static/media/iic_hrd.jpg": "/Pulse2K24/static/media/iic_hrd.0c188a2603ff1880bac8.jpg",
     "static/media/address.png": "/Pulse2K24/static/media/address.911b6cc2e92f54c495ec.png",
-    "static/media/pulse-data.csv": "/Pulse2K24/static/media/pulse-data.20860a5bfaaa0801d533.csv",
+    "static/media/pulse-data.csv": "/Pulse2K24/static/media/pulse-data.ccf1f184cee136b224a0.csv",
     "index.html": "/Pulse2K24/index.html",
-    "main.f690d5d7.css.map": "/Pulse2K24/static/css/main.f690d5d7.css.map",
-    "main.ea686537.js.map": "/Pulse2K24/static/js/main.ea686537.js.map"
+    "main.b1b8621b.css.map": "/Pulse2K24/static/css/main.b1b8621b.css.map",
+    "main.a629ddcb.js.map": "/Pulse2K24/static/js/main.a629ddcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f690d5d7.css",
-    "static/js/main.ea686537.js"
+    "static/css/main.b1b8621b.css",
+    "static/js/main.a629ddcb.js"
   ]
 }
