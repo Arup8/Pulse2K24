@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pulse2K24/static/css/main.b1b8621b.css",
-    "main.js": "/Pulse2K24/static/js/main.a629ddcb.js",
+    "main.js": "/Pulse2K24/static/js/main.7520c09a.js",
     "static/media/dept03.JPG": "/Pulse2K24/static/media/dept03.b8bee2de72d932b161fe.JPG",
     "static/media/dept07.JPG": "/Pulse2K24/static/media/dept07.8d47d3d1f29b24c2be84.JPG",
     "static/media/dept08.JPG": "/Pulse2K24/static/media/dept08.103d9b50a5172e9b7b14.JPG",
@@ -55,10 +55,10 @@
     "static/media/pulse-data.csv": "/Pulse2K24/static/media/pulse-data.ccf1f184cee136b224a0.csv",
     "index.html": "/Pulse2K24/index.html",
     "main.b1b8621b.css.map": "/Pulse2K24/static/css/main.b1b8621b.css.map",
-    "main.a629ddcb.js.map": "/Pulse2K24/static/js/main.a629ddcb.js.map"
+    "main.7520c09a.js.map": "/Pulse2K24/static/js/main.7520c09a.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b8621b.css",
-    "static/js/main.a629ddcb.js"
+    "static/js/main.7520c09a.js"
   ]
 }
