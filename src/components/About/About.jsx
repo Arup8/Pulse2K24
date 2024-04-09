@@ -39,7 +39,7 @@ const About = () => {
                         roundName="Visual Voyage"
                         subtitle="(Top 20 teams from Round-1)"
                         icon={AudioVideo}
-                        description="Answer 20 questions shown on the screen in 30 mins. But be quick! Each question only stays on the screen for 30 secs."
+                        description="Answer 20 questions shown on the screen in 30 mins. But be quick! Each question only stays on the screen for 15 secs."
                     ></EventCard>
                     <EventCard
                         roundNum="3"
